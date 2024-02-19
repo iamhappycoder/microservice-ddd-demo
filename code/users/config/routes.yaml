@@ -1,0 +1,5 @@
+user-controllers:
+    resource:
+        path: ../src/Application/User/Controller
+        namespace: App\Application\User\Controller
+    type: attribute
